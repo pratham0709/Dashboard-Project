@@ -1,0 +1,43 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": "w1",
+            "name": "Widget 1",
+            "text": "Random text for Widget 1"
+          },
+          {
+            "id": "w2",
+            "name": "Widget 2",
+            "text": "Random text for Widget 2"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sales Dashboard",
+        "widgets": []
+      }
+    ],
+    "allWidgets": [
+      {
+        "id": "w1",
+        "name": "Widget 1",
+        "text": "Random text for Widget 1"
+      },
+      {
+        "id": "w2",
+        "name": "Widget 2",
+        "text": "Random text for Widget 2"
+      },
+      {
+        "id": "w3",
+        "name": "Widget 3",
+        "text": "Random text for Widget 3"
+      }
+    ]
+  }
+  
