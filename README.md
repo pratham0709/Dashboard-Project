@@ -28,8 +28,7 @@ Make sure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dashboard-widget-management.git
-   cd dashboard-widget-management
+   git clone https://github.com/pratham0709/Dashboard-Project.git
 
 2. **Install dependencies:**
    npm install
