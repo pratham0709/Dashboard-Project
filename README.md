@@ -51,6 +51,6 @@ If you'd like to contribute to this project, please follow these steps:
 ##Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: prathameshj792@gmail.com
-GitHub: @pratham0709
+1. Email: prathameshj792@gmail.com
+2. GitHub: @pratham0709
 
