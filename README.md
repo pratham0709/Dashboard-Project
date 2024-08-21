@@ -12,8 +12,7 @@ This project is a dynamic dashboard application where users can manage categorie
 ## Technologies Used
 
 - **Frontend:** React, Tailwind CSS
-- **State Management:** [Your choice of state management tool, e.g., Redux, Context API]
-- **Backend API:** Node.js, Express, MongoDB (for the purpose of this assignment, mock APIs can be used)
+- **State Management:** Redux Toolkit
 
 ## Getting Started
 
