@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="bg-richblack-900 h-screen overflow-y-auto ">
       <div className=' h-screen text-white max-w-maxContent mx-auto '>
-        <h1 className="flex flex-col md:flex md:flex-row items-center py-6 justify-center text-4xl font-inter font-bold "><HighlightText text={"Dashboard Widget Management"} /></h1>
+        <h1 className="flex flex-col md:flex md:flex-row text-center items-center py-6 justify-center text-4xl font-inter font-bold "><HighlightText text={"Dashboard Widget Management"} /></h1>
         <div className="flex justify-center items-center py-8 mb-3">
         <div className='flex flex-col gap-10'>
         {categories.map((category) => (
